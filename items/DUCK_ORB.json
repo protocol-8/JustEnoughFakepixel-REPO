@@ -6,7 +6,9 @@
   "lore": [
     "§eRight-click to view recipes!",
     "",
-    "§a§lUNCOMMON"
+    "§a§lUNCOMMON",
+    "",
+    "§k|||§r §4§lFAKEPIXEL EXCLUSIVE §r§k|||"
   ],
   "internalname": "DUCK_ORB",
   "clickcommand": "viewrecipe",
