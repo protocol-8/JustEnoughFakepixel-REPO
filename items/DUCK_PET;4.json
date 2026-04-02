@@ -1,21 +1,21 @@
 {
   "itemid": "minecraft:skull",
-  "displayname": "§7[Lvl {LVL}] §6Duck",
+  "displayname": "§7[Lvl 1→100] §6Duck",
   "nbttag": "{ExtraAttributes:{id:\"PET_DUCK;4\",petInfo:\"{\\\"type\\\":\\\"DUCK\\\",\\\"tier\\\":\\\"LEGENDARY\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"35103643-369a-3f34-884a-a0832617b22a\",Properties:{textures:[0:{Value:\"e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M0OGQ3ZDE3N2YyNTZjZTEwMDAyYmE5NzA2MDY4YjkzZTMzN2RhMjRjODU2MjZjNWFmODMyMDIxMjQ1ZjdhMDIifX19\"}]}},hypixelPopulated:1B}",
   "damage": 3,
   "lore": [
     "§8Fishing Pet",
     "",
-    "§7Sea Creature Chance: §c0.1%",
-    "§7Fishing Speed: §a0.5",
+    "§7Sea Creature Chance: §c0.1% §7→ §c10.0%",
+    "§7Fishing Speed: §a0.5 §7→ §a50.0",
     "",
     "§6Efficient Fisherman",
     "§7Clay and Fishing minions work",
-    "§7§a0.4% §7faster while on your island.",
+    "§7§a0.4% §7→ §a40.0% §7faster while on your island.",
     "",
     "§6Treasure Hunter",
     "§7Increases the chance to find treasure when fishing by",
-    "§7§a0.4%§7.",
+    "§7§a0.4% §7→ §a40.0%§7.",
     "",
     "§6Fishing Strength",
     "§7Gain §30.001% §3α Sea Creature",
@@ -25,7 +25,9 @@
     "",
     "§eRight-click to add this pet to your pet menu!",
     "",
-    "§6§lLEGENDARY"
+    "§6§lLEGENDARY",
+    "§4fakepixel exclusive"
+    
   ],
   "internalname": "PET_DUCK;4",
   "clickcommand": "viewrecipe",
@@ -42,9 +44,11 @@
       "A1": "ENCHANTED_FEATHER:64",
       "A2": "ENCHANTED_COOKED_FISH:64",
       "A3": "ENCHANTED_FEATHER:64",
+
       "B1": "DUCK_ORB:1",
       "B2": "SUPER_EGG:1",
       "B3": "DUCK_ORB:1",
+
       "C1": "ENCHANTED_FEATHER:64",
       "C2": "ENCHANTED_COOKED_FISH:64",
       "C3": "ENCHANTED_FEATHER:64"
