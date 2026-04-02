@@ -6,16 +6,16 @@
   "lore": [
     "§8Fishing Pet",
     "",
-    "§7Sea Creature Chance: §c0.1%",
-    "§7Fishing Speed: §a0.5",
+    "§7Sea Creature Chance: §c0.1% §7→ §c10.0%",
+    "§7Fishing Speed: §a0.5 §7→ §a50.0",
     "",
     "§6Efficient Fisherman",
     "§7Clay and Fishing minions work",
-    "§7§a0.3% §7faster while on your island.",
+    "§7§a0.3% §7→ §a30.0% §7faster while on your island.",
     "",
     "§6Treasure Hunter",
     "§7Increases the chance to find treasure when fishing by",
-    "§7§a0.3%§7.",
+    "§7§a0.3% §7→ §a30.0%§7.",
     "",
     "§eRight-click to add this pet to your pet menu!",
     "",
@@ -27,8 +27,8 @@
   "infoType": "WIKI_URL",
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Pets"
-  ]
-  "recipes":[ 
+  ],
+  "recipes": [
     {
       "type": "crafting",
       "count": 1,
@@ -46,5 +46,4 @@
       "C3": "ENCHANTED_FEATHER:64"
     }
   ]
-
 }
