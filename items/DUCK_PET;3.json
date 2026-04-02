@@ -1,6 +1,6 @@
 {
   "itemid": "minecraft:skull",
-  "displayname": "§7[Lvl {LVL}] §5Duck",
+  "displayname": "§7[Lvl 1→100] §5Duck",
   "nbttag": "{ExtraAttributes:{id:\"PET_DUCK;3\",petInfo:\"{\\\"type\\\":\\\"DUCK\\\",\\\"tier\\\":\\\"EPIC\\\",\\\"exp\\\":0.0,\\\"candyUsed\\\":0}\"},HideFlags:254,ItemModel:\"minecraft:player_head\",SkullOwner:{Id:\"35103643-369a-3f34-884a-a0832617b22a\",Properties:{textures:[0:{Value:\"e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M0OGQ3ZDE3N2YyNTZjZTEwMDAyYmE5NzA2MDY4YjkzZTMzN2RhMjRjODU2MjZjNWFmODMyMDIxMjQ1ZjdhMDIifX19\"}]}},hypixelPopulated:1B}",
   "damage": 3,
   "lore": [
@@ -19,9 +19,11 @@
     "",
     "§eRight-click to add this pet to your pet menu!",
     "",
-    "§5§lEPIC"
+    "§5§lEPIC",
+    "",
+    "§k|||§r §4§lFAKEPIXEL EXCLUSIVE §r§k|||"
   ],
-  "internalname": "PET_DUCK;3",
+  "internalname": "DUCK_PET;3",
   "clickcommand": "viewrecipe",
   "modver": "jef1.2.4",
   "infoType": "WIKI_URL",
@@ -32,7 +34,7 @@
     {
       "type": "crafting",
       "count": 1,
-      "overrideOutputId": "PET_DUCK;3",
+      "overrideOutputId": "DUCK_PET;3",
       "A1": "ENCHANTED_FEATHER:64",
       "A2": "ENCHANTED_COOKED_FISH:32",
       "A3": "ENCHANTED_FEATHER:64",
