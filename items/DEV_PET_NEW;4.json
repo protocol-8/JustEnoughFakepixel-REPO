@@ -1,0 +1,62 @@
+{
+  "itemid": "minecraft:skull",
+  "displayname": "§7[Lvl 1→100] §6Developer's Pet",
+  "nbttag": "{SkullOwner:{Id:\"f838f283-c433-3b2c-a3e6-82d53d834efb\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NhMThkZWYwMzVmODdmNzYxNjQwNDk3ODIwODkyNmJlNzQ3NmI1NzlkZmEzNjBmMGMyMjY5ZWYyZDQwMjljIn19fQ==\"}]}},ExtraAttributes:{pet_item:\"DWARF_TURTLE_SHELMET\",candy:0,id:\"DEV_PET_NEW;4\",exp:3.1474735310319256E7d}}",
+  "damage": 3,
+  "lore": [
+    "§8Combat Pet",
+    "",
+    "§7Magic Find: §a1% §7→ §a15%",
+    "§7Intelligence: §a15 §7→ §a150",
+    "§7Ability Damage: §c2% §7→ §c20%",
+    "",
+    "§6Smart Attacks",
+    "§7Regenerate §b0.2% §7→ §b2% §7of your total",
+    "§7§bMana §7on dealing any type of",
+    "§7damage.",
+    "§7§8(3s cooldown)",
+    "",
+    "§6Wise Hunter",
+    "§7Decrease the mana cost of",
+    "§7abilities by §a2% §7→ §a20%§7 for §a5s",
+    "§a§7after killing a monster.",
+    "",
+    "§6Fortune Grabber",
+    "§7Gain §a0.5% §7→ §a5% §7of each player's §b✯",
+    "§bMagic Find§7 within §a8§7 blocks.",
+    "§7§8Max 12 → 120",
+    "",
+    "§6Held Item: §9Dwarf Turtle Shelmet",
+    "§7Makes the pet's owner immune to",
+    "§7knockback",
+    "",
+    "§eRight-click to add this pet to ",
+    "§eyour pet menu!",
+    "",
+    "§6§lLEGENDARY",
+    "",
+    "§k|||§r §4§lFAKEPIXEL EXCLUSIVE §r§k|||"
+  ],
+  "internalname": "DEV_PET_NEW;4",
+  "clickcommand": "viewrecipe",
+  "modver": "jef1.2.4",
+  "recipes": [
+    {
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "DEV_PET_NEW;4",
+
+      "A1": "SHARD_OF_PURE_WISDOM:1",
+      "A2": "SHARD_OF_PURE_WISDOM:1",
+      "A3": "SHARD_OF_PURE_WISDOM:1",
+
+      "B1": "SHARD_OF_PURE_WISDOM:1",
+      "B2": "SKYBLOCK_CODE_NEW:1",
+      "B3": "SHARD_OF_PURE_WISDOM:1",
+
+      "C1": "SHARD_OF_PURE_WISDOM:1",
+      "C2": "SHARD_OF_PURE_WISDOM:1",
+      "C3": "SHARD_OF_PURE_WISDOM:1"
+    }
+  ]
+}
