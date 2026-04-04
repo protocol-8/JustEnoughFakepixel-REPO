@@ -1,0 +1,22 @@
+{
+  "itemid": "minecraft:skull",
+  "displayname": "§6Bugged Piece of Code",
+  "nbttag": "{Unbreakable:1b,HideFlags:38,SkullOwner:{Id:\"ed9b47bd-ca7d-3cb3-99e2-bc18d9688f7a\",Properties:{textures:[0:{Value:\"ewogICJ0aW1lc3RhbXAiIDogMTc0Njc5MTU1OTYyNCwKICAicHJvZmlsZUlkIiA6ICI2YzU1NzMyMzg3NzI0YWUwYWZjNjg5YzI3MmU2OTUwZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQYWRkeWs0NSIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xNDhiMDFmMzIxNmNhNzU4NjI1N2FhM2ZkNWNmMTA0MmFkZmMxY2IxMTM0ZTNlZmI2MWRlOGJhNWQxZTIxYmMwIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=\"}]}},ExtraAttributes:{id:\"BUGGED_PIECE_OF_CODE\"}}",
+  "damage": 3,
+  "lore": [
+    "§7A glitched fragment of Skyblock’s",
+    "§7source code.",
+    "§7It occasionally causes",
+    "§7§cunexpected behavior§7 in the",
+    "§7system.",
+    "",
+    "§6Ability: NullPointerException",
+    "§a1%§7 chance to cheat death via system",
+    "§7error.",
+    "",
+    "§6§lLEGENDARY",
+    "",
+    "§k|||§r §4§lFAKEPIXEL EXCLUSIVE §r§k|||"
+  ],
+  "internalname": "BUGGED_PIECE_OF_CODE"
+}
