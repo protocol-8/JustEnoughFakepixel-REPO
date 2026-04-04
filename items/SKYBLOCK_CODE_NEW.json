@@ -1,0 +1,18 @@
+{
+  "itemid": "minecraft:skull",
+  "displayname": "§6Piece of Skyblock Code",
+  "nbttag": "{Unbreakable:1b,HideFlags:38,SkullOwner:{Id:\"8b669edd-0627-3a3b-bc3a-2815ada4c69c\",Properties:{textures:[0:{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODFjZTk1ZGQ0ODBmMTdmZWUwNzFmOWU4ZjdlMmU5YzA1NDJhYzcyYWI1ZDJhZTUzY2NlYWQyYmQ3MjM3MGMyNSJ9fX0=\"}]}},ExtraAttributes:{obtained:1775142021283L,id:\"SKYBLOCK_CODE_NEW\",uuid:\"bc64c154-1c5a-43f6-8181-0a9aa03190bd\",auction:\"ffa85f06-2bcb-4f54-9216-28b4ad37f773\"}}",
+  "damage": 3,
+  "lore": [
+    "§aBAT_§a§kFIRE§aWO§a§kRK §aDOU§a§kBLE_§aPLA§a§kNT__§a2",
+    "§aKI§a§kSME§aT_§a§kFEA§aTHER§a§k MOB§aY_DU§a§kCK",
+    "§aRE§a§kDST§aONE§a§k_CHE§aST§a§k INF§aER§a§kNA§aL_F§a§kERV§aOR§a§k_BO§aOTS",
+    "",
+    "§eRight-click to view recipes!",
+    "",
+    "§6§lLEGENDARY",
+    "",
+    "§k|||§r §4§lFAKEPIXEL EXCLUSIVE §r§k|||"
+  ],
+  "internalname": "SKYBLOCK_CODE_NEW"
+}
