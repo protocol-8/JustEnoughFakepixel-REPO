@@ -14,7 +14,7 @@
     },
     {
       "itemId": "ATOMSPLIT_KATANA",
-      "durationMs": 5000
+      "durationMs": 1000
     },
     {
       "itemId": "MIDAS_STAFF",
@@ -49,6 +49,10 @@
     {
       "itemId": "FIRE_VEIL_WAND",
       "durationMs": 5000
+    },
+    {
+      "itemId": "ATOMSPLIT_KATANA",
+      "durationMs": 4000
     }
   ],
   "invincibility": [
@@ -71,11 +75,11 @@
   ],
   "chatTriggers": [
     {
-      "pattern": "§r§r§a§aYour §r§9§9Bonzo's Mask §r§a§asaved your life!§r§r",
+      "pattern": "§r§aYour §r§9Bonzo's Mask §r§asaved your life!§r",
       "itemIds": ["BONZO_MASK", "STARRED_BONZO_MASK"]
     },
     {
-      "pattern": "§r§aYour §r§5Spirit Mask §r§asaved you from death!§r§r",
+      "pattern": "§r§aYour §r§5Spirit Mask §r§asaved you from death!§r",
       "itemIds": ["SPIRIT_MASK", "STARRED_SPIRIT_MASK"]
     }
   ],
