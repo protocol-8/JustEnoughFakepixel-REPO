@@ -1,0 +1,104 @@
+{
+  "cooldowns": [
+    {
+      "itemId": "GYROKINETIC_WAND",
+      "durationMs": 30000
+    },
+    {
+      "itemId": "ICE_SPRAY_WAND",
+      "durationMs": 5000
+    },
+    {
+      "itemId": "FIRE_VEIL_WAND",
+      "durationMs": 1000
+    },
+    {
+      "itemId": "ATOMSPLIT_KATANA",
+      "durationMs": 5000
+    },
+    {
+      "itemId": "MIDAS_STAFF",
+      "durationMs": 1000
+    },
+    {
+      "itemId": "STARRED_MIDAS_STAFF",
+      "durationMs": 1000
+    },
+    {
+      "itemId": "RAGNAROK_AXE",
+      "durationMs": 120000
+    },
+    {
+      "itemId": "BONZO_MASK",
+      "durationMs": 360000
+    },
+    {
+      "itemId": "STARRED_BONZO_MASK",
+      "durationMs": 360000
+    },
+    {
+      "itemId": "SPIRIT_MASK",
+      "durationMs": 30000
+    },
+    {
+      "itemId": "STARRED_SPIRIT_MASK",
+      "durationMs": 30000
+    }
+  ],
+  "abilities": [
+    {
+      "itemId": "FIRE_VEIL_WAND",
+      "durationMs": 5000
+    }
+  ],
+  "invincibility": [
+    {
+      "itemId": "BONZO_MASK",
+      "durationMs": 5000
+    },
+    {
+      "itemId": "STARRED_BONZO_MASK",
+      "durationMs": 5000
+    },
+    {
+      "itemId": "SPIRIT_MASK",
+      "durationMs": 5000
+    },
+    {
+      "itemId": "STARRED_SPIRIT_MASK",
+      "durationMs": 5000
+    }
+  ],
+  "chatTriggers": [
+    {
+      "pattern": "§r§r§a§aYour §r§9§9Bonzo's Mask §r§a§asaved your life!§r§r",
+      "itemIds": ["BONZO_MASK", "STARRED_BONZO_MASK"]
+    },
+    {
+      "pattern": "§r§aYour §r§5Spirit Mask §r§asaved you from death!§r§r",
+      "itemIds": ["SPIRIT_MASK", "STARRED_SPIRIT_MASK"]
+    }
+  ],
+  "actionBarTriggers": [
+    {
+      "pattern": "Gravity Storm",
+      "itemIds": ["GYROKINETIC_WAND"]
+    },
+    {
+      "pattern": "BLIZZARD!|Ice Spray",
+      "itemIds": ["ICE_SPRAY_WAND"]
+    },
+    {
+      "pattern": "Fire Veil",
+      "itemIds": ["FIRE_VEIL_WAND"]
+    },
+    {
+      "pattern": "Soulcry",
+      "itemIds": ["ATOMSPLIT_KATANA"]
+    },
+    {
+      "pattern": "Molten Wave",
+      "itemIds": ["MIDAS_STAFF", "STARRED_MIDAS_STAFF"]
+    }
+  ]
+}
