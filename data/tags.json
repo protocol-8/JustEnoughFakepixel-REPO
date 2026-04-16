@@ -20,6 +20,13 @@
       "unicodeSymbol": "U+1F408",
       "unicodeColor": "#FF55FF",
       "hover": "§dmeow"
-    }
+    },
+    {
+      "name": "pickonimbus2000",
+      "text": "§b[DEV]",
+      "unicodeSymbol": "U+2726",
+      "unicodeColor": "#00AAFF",
+      "hover": "§bThis person develops for JEF"
+    },
   ]
 }
