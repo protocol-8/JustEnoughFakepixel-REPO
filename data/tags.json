@@ -15,17 +15,10 @@
       "hover": "§cThis person develops for JEF"
     },
     {
-      "name": "TURKISHKEBAP",
-      "text": "§d[KITTEN]",
-      "unicodeSymbol": "U+2726",
-      "unicodeColor": "#FF55FF",
-      "hover": "§dmeow"
-    },
-    {
       "name": "pickonimbus2000",
       "text": "§b[DEV]",
       "unicodeSymbol": "U+2726",
-      "unicodeColor": "#000000",
+      "unicodeColor": "#00AAFF",
       "hover": "§bThis person develops for JEF"
     }
   ]
