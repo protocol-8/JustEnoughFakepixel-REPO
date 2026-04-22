@@ -43,6 +43,46 @@
     {
       "itemId": "STARRED_SPIRIT_MASK",
       "durationMs": 30000
+    },
+    {
+      "itemId": "GIANTS_SWORD",
+      "durationMs": 30000
+    },
+    {
+      "itemId": "STARRED_GIANTS_SWORD",
+      "durationMs": 30000
+    },
+    {
+      "itemId": "SHADOW_FURY",
+      "durationMs": "15000"
+    }
+    {
+      "itemId": "STARRED_SHADOW_FURY",
+      "durationMs": "15000"
+    },
+    {
+      "itemId": "ANCESTRAL_SPADE",
+      "durationMs": "3000"
+    },
+    {
+      "itemId": "WABD_OF_ATONEMENT",
+      "durationMs": "1000"
+    },
+    {
+      "itemId": "VOODOO_DOLL",
+      "durationMs": "5000"
+    },
+    {
+      "itemId": "SWORD_OF_BAD_HEALTH",
+      "durationMs": "5000"
+    },
+    {
+      "itemId": "WEIRD_TUBA",
+      "durationMs": "20000"
+    },
+    {
+      "itemId": "STAFF_OF_THE_VOLCANO",
+      "durationMs": "30000"
     }
   ],
   "abilities": [
@@ -107,6 +147,38 @@
     {
       "pattern": "Molten Wave",
       "itemIds": ["MIDAS_STAFF", "STARRED_MIDAS_STAFF"]
+    },
+    {
+      "pattern": "Giant's Slam",
+      "itemIds": ["GIANTS_SWORD", "STARRED_GIANTS_SWORD"]
+    },
+    {
+      "pattern": "Shadow Fury",
+      "itemIds": ["SHADOW_FURY", "STARRED_SHADOW_FURY"]
+    },
+    {
+      "pattern": "Echo",
+      "itemIds": ["ANCESTRAL_SPADE"]
+    },
+    {
+      "pattern": "Huge Heal",
+      "itemIds": ["WAND_OF_ATONEMENT"]
+    },
+    {
+      "pattern": "Acupuncture",
+      "itemIds": ["VOODOO_DOLL"]
+    },
+    {
+      "pattern": "Bad Health",
+      "itemIds": ["SWORD_OF_BAD_HEALTH"]
+    },
+    {
+      "pattern": "Howl",
+      "itemIds": ["WEIRD_TUBA"]
+    },
+    {
+      "pattern": "Explode",
+      "itemIds": ["STAFF_OF_THE_VOLCANO"]
     }
   ]
 }
