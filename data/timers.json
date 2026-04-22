@@ -55,7 +55,7 @@
     {
       "itemId": "SHADOW_FURY",
       "durationMs": 15000
-    }
+    },
     {
       "itemId": "STARRED_SHADOW_FURY",
       "durationMs": 15000
@@ -65,7 +65,7 @@
       "durationMs": 3000
     },
     {
-      "itemId": "WABD_OF_ATONEMENT",
+      "itemId": "WAND_OF_ATONEMENT",
       "durationMs": 1000
     },
     {
