@@ -2,17 +2,18 @@
   "contributors": [
     {
       "name": "kanishka007",
-      "spinny": true,
-      "upsideDown": false
+      "upsideDown": true
     },
     {
       "name": "mansoob201",
-      "spinny": false,
       "upsideDown": true
     },
     {
       "name": "pickonimbus2000",
-      "spinny": true,
+      "upsideDown": true
+    },
+    {
+      "name": "Diyansh",
       "upsideDown": true
     }
   ]
