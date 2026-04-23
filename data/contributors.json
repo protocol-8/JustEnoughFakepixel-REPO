@@ -9,6 +9,11 @@
       "name": "mansoob201",
       "spinny": false,
       "upsideDown": true
+    },
+    {
+      "name": "pickonimbus2000",
+      "spinny": true,
+      "upsideDown": true
     }
   ]
 }
