@@ -35,6 +35,12 @@
       "text": "§bAutism",
       "unicodeSymbol": "U+2605",
       "unicodeColor": "#FFAA00"
+    },
+     {
+      "name": "TURKISHKEBAP",
+      "text": "§bBeta Tester \n §c kitten!",
+      "unicodeSymbol": "U+2605",
+      "unicodeColor": "#FF5555"
     }
   ]
 }
