@@ -1,0 +1,19 @@
+{
+  "itemid": "minecraft:cake",
+  "displayname": "§cDanielo's 18th Birthday Cake",
+  "nbttag": "{ench:[],enchants:[],Unbreakable:1b,HideFlags:39,display:{Lore:[\"§7Magic Find: §b+1%\",\"\",\"§7Obtained By: §a[VIP] TURKISHKEBAP\",\"\",\"§8A delicious reminder of a special\",\"§8day.\",\"\",\"§8Edition #318\",\"\",\"§c§lSPECIAL ACCESSORY\"],Name:\"§cDanielo's 18th Birthday Cake\"},ExtraAttributes:{special_cake:0b,edition:318,obtained:1742322941942L,id:\"DANIELO_BDAY_CAKE_18\",uuid:\"1a65695c-a2b9-41d0-befe-c42deea381db\",obtained_by:\"§a[VIP] TURKISHKEBAP\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Magic Find: §b+1%",
+    "",
+    "§7Obtained By: §a[VIP] TURKISHKEBAP",
+    "",
+    "§8A delicious reminder of a special",
+    "§8day.",
+    "",
+    "§8Edition #318",
+    "",
+    "§c§lSPECIAL ACCESSORY"
+  ],
+  "internalname": "DANIELO_BDAY_CAKE_18"
+}
